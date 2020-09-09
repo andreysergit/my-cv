@@ -1,1 +1,1 @@
-Check it out my cv https://app.netlify.com/sites/andreylaptenok-mycv
+Check it out my cv https://andreylaptenok-mycv.netlify.app
